@@ -1,0 +1,15 @@
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\bin\Debug\net6.0\Task12.exe
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\bin\Debug\net6.0\Task12.deps.json
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\bin\Debug\net6.0\Task12.runtimeconfig.json
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\bin\Debug\net6.0\Task12.dll
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\bin\Debug\net6.0\Task12.pdb
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\obj\Debug\net6.0\Task12.csproj.AssemblyReference.cache
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\obj\Debug\net6.0\Task12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\obj\Debug\net6.0\Task12.AssemblyInfoInputs.cache
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\obj\Debug\net6.0\Task12.AssemblyInfo.cs
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\obj\Debug\net6.0\Task12.csproj.CoreCompileInputs.cache
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\obj\Debug\net6.0\Task12.dll
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\obj\Debug\net6.0\refint\Task12.dll
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\obj\Debug\net6.0\Task12.pdb
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\obj\Debug\net6.0\Task12.genruntimeconfig.cache
+D:\Обучение\Языки программирования C#\Лекции\Lesson1\Task12\obj\Debug\net6.0\ref\Task12.dll
